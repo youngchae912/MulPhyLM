@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: On Computable Numbers, with an Application to the Entscheidungsproblem
+title: MulPhyLM: Multimodal Robotic Planning through Vision-Language Models and Physical Interaction
 authors:
     A. M. Turing
 affiliations:
