@@ -31,7 +31,7 @@ The paper "On Computable Numbers, with an Application to the Entscheidungsproble
 
 <section style="background: black; padding: 20px;">
   <video autoplay muted loop playsinline width="640" height="360" style="display: block; margin: 0 auto;">
-    <source src="/static/image/testvideo.mp4" type="video/mp4">
+    <source src="static/image/testvideo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
