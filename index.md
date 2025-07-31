@@ -28,16 +28,19 @@ This study proposes a robot task automation framework based on large language mo
 ![Framework](/static/image/figure1.png)
 ## Background
 The paper "On Computable Numbers, with an Application to the Entscheidungsproblem" was published by Alan Turing in 1936. In this groundbreaking paper, Turing introduced the concept of a universal computing machine, now known as the Turing machine.
-
-<section style="padding: 20px;">
-  <video autoplay muted loop playsinline width="640" height="360" style="display: block; margin: 0 auto;">
-    <source src="static/image/testvideo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-  <h2 style="text-align: center; margin-top: 20px;">
-    Our robot plans tasks using vision and force – no need to touch anything manually!
-  </h2>
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <video id="teaser" autoplay muted loop playsinline height="100%">
+        <source src="static/image/testvideo.mp4" type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        <span class="dnerf">Nerfies</span> turns selfie videos from your phone into
+        free-viewpoint
+        portraits.
+      </h2>
+    </div>
+  </div>
 </section>
 
 ## Objective
