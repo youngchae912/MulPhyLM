@@ -4,9 +4,9 @@ permalink: /
 
 title: "MulPhyLM: Multimodal Robotic Planning through Vision-Language Models and Physical Interaction"
 authors:
-  - A. M. Turing
+  - Young-Chae Son$^{1}$, DongHan Lee$^{1}$ and Soo-Chul Lim$^{1* }$%
 affiliations:
-  - King's College, Cambridge
+  - Dongguk University, Seoul 04620, South Korea
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
