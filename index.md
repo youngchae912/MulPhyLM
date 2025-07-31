@@ -24,24 +24,28 @@ This study proposes a robot task automation framework based on large language mo
 </div>
 
 ---
-
+## Framework
 ![Framework](/static/image/figure1.png)
-## Background
-The paper "On Computable Numbers, with an Application to the Entscheidungsproblem" was published by Alan Turing in 1936. In this groundbreaking paper, Turing introduced the concept of a universal computing machine, now known as the Turing machine.
-<section class="hero teaser">
-  <div class="container is-max-desktop">
-    <div class="hero-body">
-      <video id="teaser" autoplay muted loop playsinline height="100%">
+
+<section class="hero teaser" style="padding: 0;">
+  <div class="container is-max-desktop" style="padding: 0;">
+    <div class="hero-body" style="padding: 0; position: relative;">
+      <video 
+        id="teaser" 
+        autoplay 
+        muted 
+        loop 
+        playsinline 
+        style="width: 100%; height: auto; display: block; object-fit: cover;">
         <source src="static/image/testvideo.mp4" type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
-        <span class="dnerf">Nerfies</span> turns selfie videos from your phone into
-        free-viewpoint
-        portraits.
+      <h2 class="subtitle has-text-centered" style="margin-top: 1em;">
+        <span class="dnerf">MulPhyLM</span> LLM-Guided Robotic Task Framework for Executing Natural Language Task goals
       </h2>
     </div>
   </div>
 </section>
+
 
 ## Objective
 Turing's main objective in this paper was to investigate the notion of computability and its relation to the Entscheidungsproblem (the decision problem), which is concerned with determining whether a given mathematical statement is provable or not.
