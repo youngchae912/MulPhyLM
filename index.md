@@ -4,7 +4,7 @@ permalink: /
 
 title: "MulPhyLM: Multimodal Robotic Planning through Vision-Language Models and Physical Interaction"
 authors:
-  - Young-Chae Son$^{1}$, DongHan Lee$^{1}$ and Soo-Chul Lim$^{1* }$%
+  - Young-Chae Son$, DongHan Lee$ and Soo-Chul Lim$^{* }
 affiliations:
   - Dongguk University, Seoul 04620, South Korea
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
