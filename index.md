@@ -37,7 +37,7 @@ This study proposes a robot task automation framework based on large language mo
         loop 
         playsinline 
         style="width: 100%; height: auto; display: block; object-fit: cover;">
-        <source src="static/image/testvideo2.mp4" type="video/mp4">
+        <source src="static/image/testvideo.mp4" type="video/mp4">
       </video>
       </h2>
     </div>
@@ -54,7 +54,7 @@ This study proposes a robot task automation framework based on large language mo
         loop 
         playsinline 
         style="width: 100%; height: auto; display: block; object-fit: cover;">
-        <source src="static/image/testvideo.mp4" type="video/mp4">
+        <source src="static/image/testvideo2.mp4" type="video/mp4">
       </video>
       <h2 class="subtitle has-text-centered" style="margin-top: 1em;">
         <span class="dnerf">LLM-Guided Robotic Task Framework for Executing Natural Language Task goals
