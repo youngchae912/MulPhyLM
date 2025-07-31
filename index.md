@@ -37,6 +37,25 @@ This study proposes a robot task automation framework based on large language mo
         loop 
         playsinline 
         style="width: 100%; height: auto; display: block; object-fit: cover;">
+        <source src="static/image/testvideo2.mp4" type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered" style="margin-top: 1em;">
+        <span class="dnerf">
+      </h2>
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser" style="padding: 0;">
+  <div class="container is-max-desktop" style="padding: 0;">
+    <div class="hero-body" style="padding: 0; position: relative;">
+      <video 
+        id="teaser" 
+        autoplay 
+        muted 
+        loop 
+        playsinline 
+        style="width: 100%; height: auto; display: block; object-fit: cover;">
         <source src="static/image/testvideo.mp4" type="video/mp4">
       </video>
       <h2 class="subtitle has-text-centered" style="margin-top: 1em;">
