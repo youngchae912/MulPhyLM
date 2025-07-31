@@ -29,10 +29,8 @@ This study proposes a robot task automation framework based on large language mo
 ## Background
 The paper "On Computable Numbers, with an Application to the Entscheidungsproblem" was published by Alan Turing in 1936. In this groundbreaking paper, Turing introduced the concept of a universal computing machine, now known as the Turing machine.
 
-<video width="640" height="360" controls>
-  <source src="/static/image/onlyforce.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](/static/image/figtest.gif)
+
 
 ## Objective
 Turing's main objective in this paper was to investigate the notion of computability and its relation to the Entscheidungsproblem (the decision problem), which is concerned with determining whether a given mathematical statement is provable or not.
