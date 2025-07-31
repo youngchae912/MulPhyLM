@@ -4,9 +4,9 @@ permalink: /
 
 title: MulPhyLM: Multimodal Robotic Planning through Vision-Language Models and Physical Interaction
 authors:
-    A. M. Turing
+  - A. M. Turing
 affiliations:
-    King's College, Cambridge
+  - King's College, Cambridge
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
