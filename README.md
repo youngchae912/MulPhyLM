@@ -1,21 +1,6 @@
-# Project Website
+# MulPhyLM: Multimodal Robotic Planning through Vision-Language Models and Physical Interaction
 
-This repository jekyll-ized the source code for the [Nerfies website](https://nerfies.github.io).
-You only need to change the content of [index.md](/index.md). 
-It's possible to only write in markdown, but you can also use HTML to achieve fancier effects.
+This study proposes a robot task automation framework based on large language models (LLMs) that utilizes both visual and physical information. The system integrates multimodal inputs, including camera images and force/torque (F/T) sensor data, to interpret the visual and physical state of objects and generate a task sequence to execute given commands. The integration of vision and force data allows the system to compensate for the limitations of each modality, leading to more reliable decision-making. The framework consists of three components: Extractor, Planner, and Sub-planner. According to their assigned roles, each agent automatically translates high-level commands given in natural language into executable robot motion plans, enabling the robot to perform the required sequence of actions. The system combines visual and force data to handle tasks that are difficult or infeasible with a single modality. Furthermore, it supports sequential and condition-based task planning through the collaboration of multiple LLM agents. Experimental results in various task scenarios show that the proposed framework operates reliably with different LLMs and achieves a higher success rate compared to using only visual or force data.
+Here is an [example website](https://imyoungchae.github.io/MulPhyLM/).
 
-Here is an [example website](https://shunzh.github.io/project_website/).
 
-## Try it locally
-
-1. Install [Jekyll](https://jekyllrb.com/docs/installation/).
-2. run `jekyll serve` in this directory.
-
-Then you can see the website at `http://127.0.0.1:4000`.
-
-## Try it in GitHub Codespaces
-
-1. Click on the "<> Code" button on this page, select the "Codespaces" tab, and click "Create codespace on main".
-2. Once the environment is ready, run `jekyll serve` in the terminal.
-3. It should pop up a message saying "Your application running on port 4000 is available." Click "Open in browser" to see the website.
-Or you can click on the "Ports" tab in the bottom panel and look for port 4000 there.
