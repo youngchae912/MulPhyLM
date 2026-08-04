@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: "MulPhyLM: Multimodal Robotic Planning through Vision-Language Models and Physical Interaction"
+title: "MulPlanLM: multimodal robotic task planning with vision-language models and physical feedback"
 authors:
   - Young-Chae Son, DongHan Lee and Soo-Chul Lim*
 affiliations:
