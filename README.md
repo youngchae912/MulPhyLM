@@ -1,4 +1,4 @@
-# MulPhyLM: Multimodal Robotic Planning through Vision-Language Models and Physical Interaction
+# MulPlanLM: Multimodal Robotic Planning through Vision-Language Models and Physical Interaction
 
 
 
