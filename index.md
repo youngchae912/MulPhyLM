@@ -4,7 +4,7 @@ permalink: /
 
 title: "MulPlanLM: multimodal robotic task planning with vision-language models and physical feedback"
 authors:
-  - Young-Chae Son, Dong-Han Lee and Soo-Chul Lim*
+  - '<a href="https://youngchae912.github.io/">Young-Chae Son</a>, Dong-Han Lee and Soo-Chul Lim*'
 affiliations:
   - Department of Mechanical, Robotics and Energy Engineering, Dongguk University, Seoul 04620, South Korea
 
